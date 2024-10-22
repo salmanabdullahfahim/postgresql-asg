@@ -1,5 +1,3 @@
--- Active: 1729157050578@@127.0.0.1@5432@university_db
-
 
 --  Create students table
 CREATE TABLE students (
